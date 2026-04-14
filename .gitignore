@@ -1,0 +1,15 @@
+logs/
+
+RAG_Medcal_Chatbot.egg-info/
+.streamlit/
+
+brain_tumor_model.h5
+
+# virtual env
+.venv/
+venv/
+
+__pycache__/
+*.pyc
+.env
+brain_tumor_model.h5
